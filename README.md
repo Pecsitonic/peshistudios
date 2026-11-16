@@ -24,6 +24,6 @@ The site is built with HTML and CSS and hosted through GitHub Pages.
 
 ## Contact
 
-For questions about MonkisPlazii or its legal documents, contact **peshistudios@gmail.com**.
+For questions about MonkisPlazii or its legal documents, contact **contactopecsitonic@gmail.com**.
 
 **Developed by Pecsitonic under Peshi Studios.**
