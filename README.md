@@ -1,29 +1,27 @@
-# Peshi Studios
+# Peshi Studios — MonkisPlazii Legal Pages
 
-Peshi Studios is an independent game development project by **Pecsitonic**, focused on creating original characters, playful worlds and social gaming experiences.
+Static website, in English only, for MonkisPlazii. The homepage directly displays the Privacy Policy. Includes Terms of Use and Account Deletion.
 
-## Projects
+## GitHub Pages
 
-**MonkisPlazii** is a social game for Android developed with Unity 6. Players can interact with Monki, customize characters and rooms, explore planets, play minigames and join multiplayer rooms.
+Create or reuse the public `peshistudios` repository in the `Pecsitonic` account. Upload the **contents** of this folder to the repository root and overwrite older site files. GitHub Settings → Pages → Deploy from a branch → `main` → `/(root)`.
 
-MonkisPlazii is currently in development, with a Google Play release planned.
+Expected URLs after GitHub Pages deployment:
 
-## Website
+- Main / Privacy Policy: https://pecsitonic.github.io/peshistudios/
+- Privacy Policy: https://pecsitonic.github.io/peshistudios/privacy.html
+- Terms of Use: https://pecsitonic.github.io/peshistudios/terms.html
+- Account Deletion: https://pecsitonic.github.io/peshistudios/delete-account.html
+- MonkisPlazii official links: https://linktr.ee/monkisplazii
 
-This repository contains the Peshi Studios website and legal information for MonkisPlazii, including:
+## Brand and footer
 
-- Privacy Policy
-- Terms of Use
-- Account Deletion information
+The page header keeps `uipeshistudios.png`. The favicon uses the **original user-provided** `tonicstudioslogo.png`, converted to `favicon.ico` and `favicon.png` for browser compatibility. The color scheme remains #242424. Footer: `Independent game development by Pecsitonic.` and `© 2026 Pecsitonic. All rights reserved.`
 
-The site is built with HTML and CSS and hosted through GitHub Pages.
+Before publication, independently verify that legal descriptions reflect actual collection, retention, advertising SDK configuration, and account deletion support in the released game.
 
-**Website:** https://pecsitonic.github.io/peshistudios/
+## Updated privacy and terms
 
-**MonkisPlazii:** https://linktr.ee/monkisplazii
+The Privacy Policy and Terms of Use now cover AI-powered interactions with Monki, player-submitted questions, generated responses, and reports of inappropriate AI output. The website remains English-only with unchanged navigation, logo, favicon, footer, and colors.
 
-## Contact
-
-For questions about MonkisPlazii or its legal documents, contact **contactopecsitonic@gmail.com**.
-
-**Developed by Pecsitonic under Peshi Studios.**
+Before publishing, verify the exact AI service provider, whether text is stored or used for model training, how long AI reports are retained, and whether voice data is transmitted. Update the policy and Google Play Data safety declarations to match the deployed build.
